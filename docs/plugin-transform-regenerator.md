@@ -12,6 +12,7 @@ This plugin is included in `@babel/preset-env`
 
 **In**
 
+
 ```js title="JavaScript"
 function* a() {
   yield 1;
